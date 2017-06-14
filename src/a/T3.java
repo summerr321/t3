@@ -7,7 +7,7 @@ public class T3 {
 		
 		System.out.println("t3---------------------------");
 		
-		System.out.println("ÎÒ¾ÍÊÇÒ»¸ö¿ËÂ¡µÄ");
+		System.out.println("æˆ‘ä»¬çš„å…³ç¬¬å¥½å•Š");
 	}
 
 }
