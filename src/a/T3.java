@@ -8,6 +8,8 @@ public class T3 {
 		System.out.println("t3---------------------------");
 		
 		System.out.println("我们的关第好啊");
+		System.out.println("我们的关第好啊22222222222");
+		
 	}
 
 }
